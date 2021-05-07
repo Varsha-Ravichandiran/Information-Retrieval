@@ -28,6 +28,6 @@
     "react-split-pane": "^0.1.89",
     "react-splitter-layout": "^4.0.0",
     "semantic-ui-react": "^0.88.1",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
